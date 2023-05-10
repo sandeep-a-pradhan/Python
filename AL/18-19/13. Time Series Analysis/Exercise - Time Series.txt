@@ -1,0 +1,1 @@
+We have the data of one of shampo manufacturing company and they would like to predict the sales for next 6 months. They have provided the historical data (shampo-sales.csv)
